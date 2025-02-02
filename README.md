@@ -1,4 +1,4 @@
-<h1>JWipe - Baskebtall Player Stat Interactive Web App</h1>
+<h1>Baskebtall Player Stat Interactive Web App</h1>
 
 <h2>Description</h2>
 Project consists of a streamlit interactive web application that retrives data from the basketball-reference.com website. Followed by  data filtering using pandas and then exploritory data analysis in the fomr a heatmap. <br />
